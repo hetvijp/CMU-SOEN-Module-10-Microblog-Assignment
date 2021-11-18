@@ -1,0 +1,12 @@
+{
+    "course_name": "Test course",
+    "course_org":  "Emeritus",
+    "course_code": "EM-TEST",
+    "modules": {
+	"module01": {
+	    "title": "Assignment 1 name",
+	    "subtitle": "Some other info",
+	    "expected_time": "3 hrs"
+	}
+    }
+}
