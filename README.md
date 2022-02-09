@@ -47,7 +47,7 @@ python3 -m flask run
 
 # Submission Instructions
 
-1. Create an _assignment.txt_ file containing the link to your open pull request
+1. Create an _assignment.txt_ file containing two lines.  The first line should be your GitHub ID, and the second line should be a link to your open pull request
 2. Push your changes to your repo and go to the Gradescope assigment entitled Module 10: CI
 3. Click the _Submit Assignment_ button (or _Resubmit Assignment_ button if you are submitting a second attempt)
 4. Click the _Upload_ submission method
