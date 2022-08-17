@@ -1,0 +1,13 @@
+[flake8]
+per-file-ignores = 
+    __init__.py:F401,E402
+    d049de007ccf_private_messages.py:E122,E128,E501
+    env.py:E402,E305
+    2b017edaa91f_add_language_to_posts.py:E501
+    37f06a334dbf_new_fields_in_user_model.py:E501
+    780739b227a7_posts_table.py:E128,E122,E501
+    834b1a697901_user_tokens.py:E501
+    ae346256b650_followers.py:E128,E122
+    c81bac34faab_tasks.py:E128,E122
+    e517276bb1c2_users_table.py:W291,E128,E122,E501
+    f7ac3d27bb1d_notifications.py:E128,E122,E501
